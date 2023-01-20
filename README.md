@@ -1,4 +1,4 @@
-## Forked from NVIDIA/cuDecomp thanks Josh Romero
+## Forked from [NVIDIA/cuDecomp](https://github.com/NVIDIA/cuDecomp); thanks Josh Romero!
 
 # cuDecomp
 
