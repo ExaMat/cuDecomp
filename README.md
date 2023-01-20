@@ -1,3 +1,5 @@
+##Forked from NVIDIA/cuDecomp thanks Josh Romero
+
 # cuDecomp
 
 An Adaptive Pencil Decomposition Library for NVIDIA GPUs
